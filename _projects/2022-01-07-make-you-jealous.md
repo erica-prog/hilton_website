@@ -9,9 +9,9 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-3.jpg" loading="lazy" alt="Project">
+    <img src="/hilton_website/images/project-example-1.jpg" loading="lazy" alt="Project">
+    <img src="/hilton_website/images/project-example-2.jpg" loading="lazy" alt="Project">
+    <img src="/hilton_website/images/project-example-3.jpg" loading="lazy" alt="Project">
   </div>
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
@@ -20,8 +20,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/project-example-4.jpg" loading="lazy" alt="Project">
-    <img src="/images/project-example-5.jpg" loading="lazy" alt="Project">
+    <img src="/hilton_website/images/project-example-4.jpg" loading="lazy" alt="Project">
+    <img src="/hilton_website/images/project-example-5.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 
