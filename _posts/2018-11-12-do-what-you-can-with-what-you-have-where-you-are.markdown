@@ -13,7 +13,7 @@ Podcasting operational change management inside of workflows to establish a fram
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/03-1.jpg" loading="lazy" alt="Tram">
+    <img src="/hilton_website/images/03-1.jpg" loading="lazy" alt="Tram">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/h7N5c9A34Es" target="_blank">Alina K</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
@@ -22,8 +22,8 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/03-2.jpg" loading="lazy" alt="City">
-    <img src="/images/03-3.jpg" loading="lazy" alt="San Francisco">
+    <img src="/hilton_website/images/03-2.jpg" loading="lazy" alt="City">
+    <img src="/hilton_website/images/03-3.jpg" loading="lazy" alt="San Francisco">
   </div>
 </div>
 
@@ -34,7 +34,7 @@ Completely synergize resource taxing relationships via premier niche markets. Pr
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/03-4.jpg" loading="lazy" alt="Tram">
+    <img src="/hilton_website/images/03-4.jpg" loading="lazy" alt="Tram">
   </div>
   <em>Photo by <a href="https://unsplash.com/photos/a3ZPAE2kaGU" target="_blank">Jack Patrick</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
