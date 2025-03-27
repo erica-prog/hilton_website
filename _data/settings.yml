@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Monica Hilton
   author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/profile_photo.jpeg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
