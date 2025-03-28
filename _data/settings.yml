@@ -47,7 +47,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Erika. Welcome to my data portfolio! 
+  hero__title: I'm Erika. Welcome to my website! 
   hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
   hero__image: '/images/profile_photo.jpeg'
 
