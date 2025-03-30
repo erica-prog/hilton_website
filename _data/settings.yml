@@ -22,8 +22,8 @@ menu__settings:
         title: 'About'
       - url: '/contact/'
         title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      #- url: '/elements/'
+      #  title: 'Elements'
 
 
 #-------------------------------
@@ -34,11 +34,12 @@ author:
   author__avatar: '/images/profile_photo.jpeg'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- #{icon: "ion-logo-twitter", link: "https://twitter.com"}
+- #{icon: "ion-logo-facebook", link: "https://facebook.com"}
+- #{icon: "ion-logo-instagram", link: "https://instagram.com"}
+- #{icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+- {icon: "ion-logo-github", link: "https://github.com/erica-prog"}
+- {icon: "ion-logo-linkedin", link: " https://www.linkedin.com/in/erika-atoma-data/"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
