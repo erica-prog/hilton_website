@@ -138,7 +138,6 @@ Some Airbnbs also had additional service or cleaning fees which we realised coul
   </div>
 </div>
 
-![Scatterplot]({{site.baseurl}}/portfolio_images/airbnb_image/scatterplotofreviewsratingsvsprice.png)
 
 It is viewed that a higher overall review score (5) is given to most properties that are less than $400 (around £300). This shows that the overall review score is not positively correlated with prices. Also, there are some expensive listings with low review ratings.
 
@@ -169,7 +168,6 @@ However, we didn’t adjust it and looked more at the English comments as this l
   </div>
 </div>
 
-![sentimentanalysistextblob]({{site.baseurl}}/portfolio_images/airbnb_image/sentimentanalysistextblobdataframe.png)
 
 The ``comments`` from above for each listing were analysed using Textblob sentiment analysis models. This method assigns a score between -1 and 1 to each review and the scores are averaged across each listing.
 
@@ -181,7 +179,6 @@ This is the first 10000 comments that were analysed. We can see that there are m
   </div>
 </div>
 
-![sentimentanalysisvaluecounts]({{site.baseurl}}/portfolio_images/airbnb_image/sentimentanalysisvaluecounts.png)
 
 Importance of text sentiment polarity:
 - When people are searching for a place, many choose to look at the comments and look at the average scores. For the sentiment classification, TextBlob included giving sentiment scores. Based on the polarity of the general score, a listing can go from -1 (absolute negative sentiment) to 0 (absolute natural sentiment), to 1(absolute positive sentiment). This is important for a host when deciding to write a summary about a listing to customers. Many hosts use more positive language, while others are neutral.
@@ -211,7 +208,6 @@ Here we have seen the most common words in the summary of the cheapest listings.
   </div>
 </div>
 
-![wordcloudcomments]({{site.baseurl}}/portfolio_images/airbnb_image/wordcloudcomments.png)
 
 **Comments without price comparison**
 
@@ -264,7 +260,6 @@ The Test and Train group shapes  for ``hosting_listing_count``, ``neighbourhood_
   </div>
 </div>
 
-![snapshotoftraintestsplitamenities]({{site.baseurl}}/portfolio_images/airbnb_image/snapshotoftraintestsplitamenities.png)
 
 One would perform TTS on a data set randomly(apart from time series). So, we  separated the models into 2 groups: train and test. This allows us to use one set to train the model on and split the other dataset as a testing dataset. For a large-sized dataset, a 70/30 split between train and test is usually conventional.
 
@@ -274,11 +269,10 @@ The simplest way to create a train and trust dataset from the initial one is by 
    
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/LinearRegequation.png" loading="lazy" alt="Project">
+    <img src="/hilton_website/portfolio_images/airbnb_image/LinearRegequation.png" loading="lazy" alt="LinearRegequation">
   </div>
 </div>
 
-![LinearRegequation]({{site.baseurl}}/portfolio_images/airbnb_image/LinearRegequation.png)
 
 The reason to choose ``availability_365`` as an independent variable is because it is one of the top important features to predict prices. Furthermore, customers are mainly interested in the availability of the property when booking an AirBnB booking. 
 
@@ -292,11 +286,10 @@ Linear Regression was set as a baseline model on the dataset using all of the fe
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/multipleregressionequation.png" loading="lazy" alt="Project">
+    <img src="/hilton_website/portfolio_images/airbnb_image/multipleregressionequation.png" loading="lazy" alt="smultipleregressionequation">
   </div>
 </div>
 
-![smultipleregressionequation]({{site.baseurl}}/portfolio_images/airbnb_image/multipleregressionequation.png)
 
 - ``host_total_listings_count``: number of listings owned and operated by a single host. This shows how experienced the host is when setting prices. Therefore, it will be a strong comparison when predicting prices for certain situations.
 - ``neighbourhood_cleansed_Cat``: this is where the location becomes important in predicting prices. For example, if the neighbourhood is in demand, then raise the prices and if the neighbourhood is in less demand, then lower prices. This was encoded into ordinal values.
@@ -315,11 +308,10 @@ K-Nearest Neighbours is a type of instance-based learning. For this technique, t
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/decisiontree.png" loading="lazy" alt="Project">
+    <img src="/hilton_website/portfolio_images/airbnb_image/decisiontree.png" loading="lazy" alt="decisiontree">
   </div>
 </div>
 
-![decisiontree]({{site.baseurl}}/portfolio_images/airbnb_image/decisiontree.png)
 
 The purpose is to create a model that predicts the value of the target variable by learning simple decision rules from data features. We use the same independent variables as shown in the multiple regression. This was done using Sklearn and the Decision Classifier(random-state= 42).
 
@@ -328,11 +320,10 @@ Limitation of Decision Tree: The technique requires advanced knowledge such as p
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/amenitiesdecisiontree.png" loading="lazy" alt="Project">
+    <img src="/hilton_website/portfolio_images/airbnb_image/amenitiesdecisiontree.png" loading="lazy" alt="amenitiesdecisiontree">
   </div>
 </div>
 
-![amenitiesdecisiontree]({{site.baseurl}}/portfolio_images/airbnb_image/amenitiesdecisiontree.png)
 
 5. Random Forest 
 
@@ -350,22 +341,20 @@ Among all tested models, Random Forest performs the best and produces the lowest
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/MSE.png" loading="lazy" alt="Project">
+    <img src="/hilton_website/portfolio_images/airbnb_image/MSE.png" loading="lazy" alt="amenitiesdecisiontree">
   </div>
 </div>
 
-![amenitiesdecisiontree]({{site.baseurl}}/portfolio_images/airbnb_image/MSE.png)
 
 However, the Random Forest model produces the highest MSE, which means that there are outliers on the errors as demonstrated below in boxplots. For example, it shows that the Random Forest (RF) test model has the median of prediction error (MAE) of around $26 and the interquartile range is around $30. This means that 50% of the sample could be right and another 50% may be very wrong. It will be cheating to improve the regression models to drop the outliers due to  the cost of removing valuable price observations. The outliers may factor in where some of the hosts set their Airbnb at very highly skewed prices because of other unique characteristics that are not accounted for, such as minimum nights, reviews ratings. Furthermore, there is a bit of selection bias when selecting the parameters of the train and test split and evaluation. 
 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/amenitiesrandomforest.png" loading="lazy" alt="Project">
+    <img src="/hilton_website/portfolio_images/airbnb_image/amenitiesrandomforest.png" loading="lazy" alt="amenitiesdecisiontree">
   </div>
 </div>
 
-![amenitiesdecisiontree]({{site.baseurl}}/portfolio_images/airbnb_image/amenitiesrandomforest.png)
 
 ## Conclusion
 
