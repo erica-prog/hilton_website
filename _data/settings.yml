@@ -114,11 +114,11 @@ blog__settings:
 
 #-------------------------------
 # Gallery Footer Settings
-gallery:
-  gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-    - alt: 'Lifestyle'
+#gallery:
+#  gallery__images:
+#    - alt: 'Rest'
+#      url: '/images/gallery-1.jpg'
+#    - alt: 'Lifestyle'
       url: '/images/gallery-2.jpg'
     - alt: 'Hobby'
       url: '/images/gallery-3.jpg'
