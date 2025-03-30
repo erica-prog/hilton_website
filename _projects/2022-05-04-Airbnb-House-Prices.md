@@ -85,6 +85,8 @@ Overall we were looking at both continuous and discrete numerical data in terms 
 
 **Dispersion:** There was a wide range of prices across the listings ranging from £0 to our limit of £1000
 
+***
+
 ## Methodology
 
 We used Python and Jupyter Notebook to analyse the datasets. The first thing we focused on was cleaning the data to remove erroneous, irrelevant, incorrectly formatted or duplicated information that would negatively influence our analysis and exploration. The steps we followed are detailed in the code, but the main things we focused on were dropping unwanted columns and null values or inconsistent entries from certain columns, converting data types where applicable as well as limiting prices. We were careful not to manipulate data too much but instead ensured that the data was cleaned only to the extent that it could be more easily and appropriately analysed, which was especially important as our project relied heavily on graphs.
@@ -115,6 +117,8 @@ For the top amenities, the data was cleaned by removing the NaN values and then 
 
 For predicting prices, the process is explained below. The sklearn package was used to calculate each model (Linear Regression, Multiple Regression, Random Forest, KNN and Decision Tree. First, exclude the properties with listed prices of zero values. After, we replaced null values with zero values for ``reviews_per month`` and ``host_listing_count``, and then encoded categorical values as integers.  The dataset was horizontally split into training and test data sets and also split into features (=X_train and X_test) and target (y_train and y_test). 
 
+***
+
 ## Results
 
 ### Background
@@ -127,7 +131,7 @@ The issue with our project is that the prices we analysed are only from a specif
 
 Some Airbnbs also had additional service or cleaning fees which we realised could have significant effects on prices, especially because they are a flat fee rather than a nightly cost.
 
-*Prices above £1000 are due to Airbnb hosts not understanding how to set 'sticker' prices correctly. Hence, we set a maximum price limit of £1000. Due to limitations of the data obtained from Inside Airbnb, our model will analyse advertised prices rather than prices actually paid, as we are unable to obtain this information.  
+* Prices above £1000 are due to Airbnb hosts not understanding how to set 'sticker' prices correctly. Hence, we set a maximum price limit of £1000. Due to limitations of the data obtained from Inside Airbnb, our model will analyse advertised prices rather than prices actually paid, as we are unable to obtain this information.  
 
 
 ### Sub Problem 1: Do reviews actually matter?
@@ -181,8 +185,8 @@ This is the first 10000 comments that were analysed. We can see that there are m
 
 
 Importance of text sentiment polarity:
-- When people are searching for a place, many choose to look at the comments and look at the average scores. For the sentiment classification, TextBlob included giving sentiment scores. Based on the polarity of the general score, a listing can go from -1 (absolute negative sentiment) to 0 (absolute natural sentiment), to 1(absolute positive sentiment). This is important for a host when deciding to write a summary about a listing to customers. Many hosts use more positive language, while others are neutral.
-- However, some don't give a full picture and are hard to read, which are “made” and “would” as shown in the WordCloud of the top words in the comments. The fact that “great” appears in several comments, means that the properties in London have wonderful hosts. For example, there are some comments which contain “sad” but with human analysis, it turns out to be a positive comment. Therefore, TextBlob is not perfect in sentiment analysis.
+*  When people are searching for a place, many choose to look at the comments and look at the average scores. For the sentiment classification, TextBlob included giving sentiment scores. Based on the polarity of the general score, a listing can go from -1 (absolute negative sentiment) to 0 (absolute natural sentiment), to 1(absolute positive sentiment). This is important for a host when deciding to write a summary about a listing to customers. Many hosts use more positive language, while others are neutral.
+* However, some don't give a full picture and are hard to read, which are “made” and “would” as shown in the WordCloud of the top words in the comments. The fact that “great” appears in several comments, means that the properties in London have wonderful hosts. For example, there are some comments which contain “sad” but with human analysis, it turns out to be a positive comment. Therefore, TextBlob is not perfect in sentiment analysis.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -234,9 +238,9 @@ These graphs were plotted using different modules - the Decision Tree Classifier
 A limitation of the feature importance graphs (as well as the heat map) is that it was plotted only with factors that had numerical (integer/float) values, and thus did not incorporate amenities, location, property or room type. Furthermore, despite the fact that certain factors were found to be of the highest importance in determining price, each analysis shows that the correlations were still not very strong. 
 
 A few reasons we came up to explain this phenomenon include:
-- Some hosts might not know how to price their listings and may simply choose a price without following any real approach
-- Pricings would be quite subjective because different individuals would attach different levels of importance to certain factors
-   - For instance, one host might think that having more bathrooms is important and thus would charge a higher price simply because of this, but another might not. 
+* Some hosts might not know how to price their listings and may simply choose a price without following any real approach
+* Pricings would be quite subjective because different individuals would attach different levels of importance to certain factors
+   * For instance, one host might think that having more bathrooms is important and thus would charge a higher price simply because of this, but another might not. 
 
 ### Sub Problem 2: Can We Predict Prices Using Machine Learning?
 
@@ -277,8 +281,8 @@ The simplest way to create a train and trust dataset from the initial one is by 
 The reason to choose ``availability_365`` as an independent variable is because it is one of the top important features to predict prices. Furthermore, customers are mainly interested in the availability of the property when booking an AirBnB booking. 
 
 Linear Regression was set as a baseline model on the dataset using all of the features as model inputs. A Python package, Sklearn, was used to calculate this model; the results are as follows:
-- intercept: 0.1668724
-- The coefficient is 129.48. By checking the R-squared, we can see that less than half of the variance in the outcome variable(price)  can be explained by the model. 
+* Intercept: 0.1668724
+* The coefficient is 129.48. By checking the R-squared, we can see that less than half of the variance in the outcome variable(price)  can be explained by the model. 
 
 
 2. Multiple Regression
@@ -291,13 +295,13 @@ Linear Regression was set as a baseline model on the dataset using all of the fe
 </div>
 
 
-- ``host_total_listings_count``: number of listings owned and operated by a single host. This shows how experienced the host is when setting prices. Therefore, it will be a strong comparison when predicting prices for certain situations.
-- ``neighbourhood_cleansed_Cat``: this is where the location becomes important in predicting prices. For example, if the neighbourhood is in demand, then raise the prices and if the neighbourhood is in less demand, then lower prices. This was encoded into ordinal values.
-- ``room_type_Cat``: If the room offers an en-suite bathroom or a private balcony, it will help the rental property to stand out and this will affect the price. This was encoded into ordinal values. 
+* ``host_total_listings_count``: number of listings owned and operated by a single host. This shows how experienced the host is when setting prices. Therefore, it will be a strong comparison when predicting prices for certain situations.
+* ``neighbourhood_cleansed_Cat``: this is where the location becomes important in predicting prices. For example, if the neighbourhood is in demand, then raise the prices and if the neighbourhood is in less demand, then lower prices. This was encoded into ordinal values.
+* ``room_type_Cat``: If the room offers an en-suite bathroom or a private balcony, it will help the rental property to stand out and this will affect the price. This was encoded into ordinal values. 
 
 This multiple regression provides these  results:
-- intercept: 155
-- Coefficient: 0.07 for the ``host_total_listing_counts``, 1.15 for the ``neighbourhood_cleansed_Cat``, and -51.002 for ``room_type_Cat``.
+* Intercept: 155
+* Coefficient: 0.07 for the ``host_total_listing_counts``, 1.15 for the ``neighbourhood_cleansed_Cat``, and -51.002 for ``room_type_Cat``.
 
 
 3. KKN(K-Nearest Neighbours) Regression 
@@ -330,10 +334,10 @@ Limitation of Decision Tree: The technique requires advanced knowledge such as p
 A random forest is a meta estimator (n_estimator =1000 and random-state= 42)  that fits a number of classifying decision trees on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting (Scikit-learn.org). The independent variables from the multiple regression are used.
 
 The important error metrics for each model are used to analyse the overfitting of the data:
-- Mean Absolute Error(MAE)
-- Mean Squared Error(MSE)
-- Rooted Mean Squared Error(RMSE)
-- R-squared(R2)
+* Mean Absolute Error(MAE)
+* Mean Squared Error(MSE)
+* Rooted Mean Squared Error(RMSE)
+* R-squared(R2)
 
 
 Among all tested models, Random Forest performs the best and produces the lowest RMSE, MSE and the highest R2  on the train-test sets in terms of price, compared to other algorithms (KNN, Decision Tree, Linear Regression and Multiple Regression). This level of accuracy is a promising outcome given the heterogeneity of the dataset, therefore the hosts, guests and investors can use this model with more means to try to reduce error by a few cents.
