@@ -29,8 +29,8 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  author__name: I'm Erika
+  author__bio: I am a data enthusiast that studied Economics in my undergrad and now studying Data Science at American University. I have a passion for using data to tell stories and drive decision-making. In my free time, I enjoy exploring new data visualization techniques.
   author__avatar: '/images/profile_photo.jpeg'
 
 social:
@@ -48,7 +48,7 @@ social:
 # Hero Settings
 hero:
   hero__title: I'm Erika. Welcome to my website! 
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  hero__description: Welcome to my website! Here is my little corner of the internet where I share my projects, ideas, and inspirations on data. 
   hero__image: '/images/profile_photo.jpeg'
 
 
@@ -64,7 +64,7 @@ mailchimp__button__text: Get updates
 # Projects Settings
 projects__settings:
   projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity! Click on the project image to see more details about the project. If you like my work and would like to discuss a project, please feel free to <a href="/contact/">contact me</a>. I'm always open to new projects and collaborations.
 
 
 #-------------------------------
