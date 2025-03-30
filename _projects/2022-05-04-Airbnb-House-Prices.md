@@ -147,7 +147,7 @@ This links to the feature importance on price as ``review_score_rating`` is not 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/hilton_website/portfolio_images/airbnb_image/reviewspermonthvsprice.png" loading="lazy" alt="Project">
-    <img src="/hilton_website/portfolio_images/airbnb_image/pricevsreviewspermonthmorethan175.png" loading="lazy" alt="Project">
+    <img src="/hilton_website/portfolio_images/airbnb_image/pricevsreviewspermonthmorethan175.png" loading="lazy" alt="Price">
   </div>
 </div>
 
