@@ -102,7 +102,9 @@ How can investors assess the volatility and risk associated with semiconductor s
 
 4. **O-GARCH Findings:**
   * 3 Principal Components explain over 85% of return variation
-  * PC1 = Market Factor | PC2 = Financial Factor | PC3 = Emerging Tech/Metaverse
+    * PC1 = Market Factor 
+    * PC2 = Financial Factor 
+    * PC3 = Emerging Tech/Metaverse
 
 5. **Value-at-Risk (VaR):**
   * Estimated VaR at 95% confidence for $1M = ~$25,946 to $44,449
