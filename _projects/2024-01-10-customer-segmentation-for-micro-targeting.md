@@ -1,5 +1,5 @@
 ---
-title: SmartRetail: Customer Segmentation for Micro-Targeting
+title: SmartRetail Customer Segmentation for Micro-Targeting
 date: 2024-01-10 08:01:35 +0300
 subtitle: UNDERGRAD GROUP PROJECT
 image: '/portfolio_images/cover_images/customer-segmentation.png'
