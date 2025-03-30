@@ -35,3 +35,4 @@ Additionally, a 1% value-at-risk model (VaR) model is calculated to examine the 
   </div>
 </div>
 
+<p><iframe src="/hilton_website/portfolio_images/scrollytelling_images/preview_scrollytelling.gif" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
