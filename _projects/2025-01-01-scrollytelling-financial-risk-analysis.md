@@ -33,6 +33,8 @@ Additionally, a 1% value-at-risk model (VaR) model is calculated to examine the 
   </div>
 </div>
 
+***
+
 # Financial Risk Analysis of Semiconductor Stocks using O-GARCH and Value-at-Risk (VaR) Models
 
 ## Project Description
