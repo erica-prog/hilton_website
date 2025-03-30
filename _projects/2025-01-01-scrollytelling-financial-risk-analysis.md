@@ -1,7 +1,7 @@
 ---
 title: Scrollytelling with Quarto Close read Prize (Financial Risk Analysis)
 date: 2025-01-01 08:01:35 +0300
-subtitle: Quotes
+subtitle: COMPETITION
 image: '/portfolio_images/cover_images/scrollytelling.png'
 ---
 
