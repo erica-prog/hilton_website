@@ -88,11 +88,16 @@ I presented my research at a student conference, where I also explored data augm
 1. **Poster Overview**  
 [Click here to view the full poster (PDF)](https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/Assessing%20Bias%20in%20Mortgage%20lending_completed.pdf)
 
-<p align="center">
-  <a href="https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/Assessing%20Bias%20in%20Mortgage%20lending_completed.pdf">
-    <img src="https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/Assessing%20Bias%20in%20Mortgage%20lending_completed_image.png" alt="Conference Poster" width="600"/>
-  </a>
-</p>
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://github.com/erica-prog/mortgage-lending-using-supervised-ml-methods/blob/main/Mathias_Student_Research_Conference/Assessing%20Bias%20in%20Mortgage%20lending_completed.pdf">
+      <img src="/hilton_website/portfolio_images/mg_supervised_ml_images/Assessing Bias in Mortgage lending_completed_image.png" 
+           loading="lazy" 
+           alt="Conference Poster" 
+           width="600" />
+    </a>
+  </div>
+</div>
 
 2. **Python Notebook**  
 Check out the updated Python notebook where I implemented and evaluated these techniques:
