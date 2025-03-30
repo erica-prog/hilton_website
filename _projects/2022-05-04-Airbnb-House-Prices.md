@@ -1,7 +1,7 @@
 ---
 title: Airbnb Housing Factors Influencing Prices 
 date: 2022-01-02 08:01:35 +0300
-subtitle: Letterign
+subtitle: UNDERGRAD GROUP PROJECT
 image: '/portfolio_images/cover_images/airbnb.png'
 ---
 
