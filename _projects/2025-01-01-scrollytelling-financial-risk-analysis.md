@@ -50,7 +50,7 @@ This project presents a financial risk analysis of selected semiconductor manufa
 * [Key Findings](#key-findings)
 * [Features](#features)
 * [Lessons Learned](#lessons-learned)
-*  [Credits](#credits)
+* [Credits](#credits)
 
 ***
 
