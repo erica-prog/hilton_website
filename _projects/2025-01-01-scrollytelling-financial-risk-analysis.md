@@ -31,7 +31,7 @@ Additionally, a 1% value-at-risk model (VaR) model is calculated to examine the 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/scrollytelling_images/preview_scrollytelling" loading="lazy" alt="Preview Scrollytelling">
+    <img src="/hilton_website/portfolio_images/scrollytelling_images/preview_scrollytelling.gif" loading="lazy" alt="Preview Scrollytelling">
   </div>
 </div>
 
