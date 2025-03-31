@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Attending the Women in Statistics and Data Science (WSDS) 2024 Conference
-description: Women in Statistics and Data Science (WSDS) 2024 Conference experience
+description: A high-impact convergence of statistical innovation, leadership, and community. From version control mastery to data storytelling and ethical decision-making, WSDS 2024 delivered actionable strategies for advancing research, collaboration, and equity. With inspiring keynotes and skill-building workshops, the experience fueled professional growth, amplified confidence, and sparked new ideas to shape the future of data science.
 date:   2024-10-19 15:01:35 +0300
 image:  '/post_images/cover_images/wsds_coference.jpeg'
 tags:   [lifestyle, competiton, story]
