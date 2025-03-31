@@ -22,6 +22,7 @@ Another standout session was the keynote by **Dr. Ji-Hyun Lee**, which emphasize
 
 
 I also attended sessions focused on improving data storytelling and presentation. One session emphasized that understanding your audience is just as important as the analysis itself. I learned how to simplify visualizations, minimize text on slides, and use thoughtful design to make findings clear and compelling. I especially appreciated the tip to include QR codes for accessibility and engagement.
+
 One of the most unexpected yet rewarding outcomes of attending WSDS was learning how to present my work with greater confidence. I gained valuable presentation skills by watching fellow students showcase their projects—seeing their approach to framing research, engaging the audience, and explaining their visuals helped prepare me for my own presentation at the 35th Annual Robyn Rafferty Mathias Research Conference at American University. That experience gave me the boost I needed to step into the spotlight with self-assurance and share my research meaningfully.
 
 From technical deep-dives into ethical decision-making and AI in drug development, to panels on navigating the tenure track and applying statistics to maternal health research, every session reminded me of how diverse and impactful our field is—and how critical representation and equity are in data science spaces.
