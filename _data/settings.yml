@@ -109,7 +109,7 @@ testimonial__items:
 # Blog Section
 blog__settings:
   blog__title: Recent Posts
-  blog__description:
+  blog__description: Explore my latest blog posts, where I share insights, tips, and stories about data science, economics and my journey in the field. 
 
 
 #-------------------------------
@@ -140,8 +140,8 @@ footer_menu__settings:
       title: 'About'
     - url: '/contact/'
       title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+    #- url: '/elements/'
+    #  title: 'Elements'
 
 
 #-------------------------------
