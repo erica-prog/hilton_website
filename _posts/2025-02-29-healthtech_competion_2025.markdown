@@ -3,7 +3,7 @@ layout: post
 title:  Innovating for Impact - HealthTech 2025 Competition Experience
 description: Driving bold, tech-enabled solutions at the intersection of mental health and equity. My team delivered a forward-thinking response to real-world disparities, leveraging AI, real-time tracking, and strategic market insights. By addressing critical gaps in patient care with MoodSync, we capitalized on data-driven innovation to prototype a scalable, impact-first solution. A powerful showcase of collaboration, creativity, and purpose-driven technology.
 date:   2025-02-29 15:01:35 +0300
-image:  '/post_images/cover_images/health_tech_competition.jpeg'
+image:  '/post_images/cover_images/health_tech_competition_generated.png'
 tags:   [lifestyle, competiton, story]
 ---
 

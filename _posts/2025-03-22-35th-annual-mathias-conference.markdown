@@ -3,7 +3,7 @@ layout: post
 title:  Presenting My Research at the 35th Annual Mathias Conference
 description: Translating data science into impact, this presentation explored bias in mortgage lending during the COVID-19 pandemic through machine learning. From tackling class imbalance to evaluating model fairness, the project highlighted how technical rigor and social relevance intersect. Engaging with a vibrant academic community, the experience sharpened my communication skills and reinforced the power of data-driven storytelling.
 date:   2025-03-22 20:01:35 +0300
-image:  '/post_images/cover_images/mathias_student_reference.jpeg'
+image:  '/post_images/cover_images/mathias_student_reference_generated.png'
 tags:   [research, mortgage lending, machine learning, story]
 ---
 
