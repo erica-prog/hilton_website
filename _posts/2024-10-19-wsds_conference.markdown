@@ -11,7 +11,7 @@ In October 2024, I had the wonderful opportunity to attend the **Women in Statis
 
 As a current MS Data Science student, it was both inspiring and energizing to learn from so many accomplished professionals who are shaping the future of data-driven research and innovation. From keynote sessions to workshops and panels, the experience gave me practical skills, fresh ideas, and a deeper sense of belonging in the data science community.
 
-![WSDS_solo_shot]({{site.baseurl}}/hilton_website/post_images/wsds_conference/wsds_solo_shot.jpeg#wide)
+![WSDS_solo_shot]({{site.baseurl}}/post_images/wsds_conference/wsds_solo_shot.jpeg#wide)
 
 
 One of the most impactful sessions I attended was the **“Using Tools for Effective Open Science Collaboration – GitHub”** workshop. Led by Julia Buffinton, it covered everything from the fundamentals of version control to more advanced Git workflows for collaboration. I learned how to confidently apply core Git commands, manage branches, and use GitHub for remote teamwork—skills that are essential for any collaborative data science or research environment. It was empowering to see how mastering these tools can simplify project management and support transparent, reproducible science.
