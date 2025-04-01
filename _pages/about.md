@@ -12,7 +12,7 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 # PROFESSIONAL EXPERIENCE
 **Lloyds Banking Group – Business and Commercial Banking, London, United Kingdom**
 
-*Summer Data Analyst Intern | June 2023 – August 2023*
+*Summer Data Analyst Intern - June 2023 – August 2023*
 
 * Analyzed SME customer data using SQL and Power BI, identifying cost-saving opportunities for 15% of clients, resulting in a projected £1.2M annual savings.
 
@@ -22,7 +22,7 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 
 **TotalEnergies EP Nigeria Ltd – Crude Commercial Division, Lagos, Nigeria**
 
-*Summer Intern | June 2022 – August 2022*
+*Summer Intern - June 2022 – August 2022*
 
 * Built an Excel-based crude oil pricing model integrating statistical methods and S&P benchmarks, improving pricing accuracy and ensuring consistency across models.
 
@@ -30,7 +30,7 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 
 **Dare, London, United Kingdom**
 
-*Spring Women in Trading Intern | April 2023*
+*Spring Women in Trading Intern - April 2023*
 
 * Monitored futures and OTC derivatives markets across multiple time zones, analyzing liquidity trends in 50+ market windows.
 
