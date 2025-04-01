@@ -2,31 +2,75 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/01-2.jpg'
+image: 'about_images/linkedIn_photo.jpeg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# PROFILE
+Motivated and data-driven professional pursuing a Master of Science in Data Science at American University with a BSc in Economics from the London School of Economics. Experienced in applying analytical and machine learning techniques to solve business and policy problems in industries including finance, energy, and healthcare. Demonstrated success in delivering actionable insights, improving operational efficiency, and developing innovative AI-based solutions. Strong communicator and collaborator with a passion for ethical, inclusive, and impactful data science.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+*** 
+# PROFESSIONAL EXPERIENCE
+**Lloyds Banking Group – Business and Commercial Banking, London, United Kingdom**
+*Summer Data Analyst Intern | June 2023 – August 2023*
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+* Analyzed SME customer data using SQL and Power BI, identifying cost-saving opportunities for 15% of clients, resulting in a projected £1.2M annual savings.
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+* Created and streamlined process documentation, increasing workflow efficiency by 20%.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+* Proposed an AI-driven customer experience improvement strategy, increasing process automation recommendations by 10%.
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+**TotalEnergies EP Nigeria Ltd – Crude Commercial Division, Lagos, Nigeria**
+*Summer Intern | June 2022 – August 2022*
 
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
+* Built an Excel-based crude oil pricing model integrating statistical methods and S&P benchmarks, improving pricing accuracy and ensuring consistency across models.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+* Developed a tariff validation tool to audit pipeline transportation fees, preventing potential overpayments and safeguarding over $500K annually.
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+**Dare, London, United Kingdom**
+*Spring Women in Trading Intern | April 2023*
+
+* Monitored futures and OTC derivatives markets across multiple time zones, analyzing liquidity trends in 50+ market windows.
+
+* Co-authored a research report on the relationship between environmental policies and sovereign credit risk, influencing firm investment strategy.
+
+* Applied quantitative modeling to assess regulatory impacts on portfolio performance.
+
+***
+
+# TECHNICAL EXPERIENCE & PROJECTS
+**Graduate Teaching Assistant, American University – STAT-202 (Statistics)**
+*September 2024 – Present*
+
+* Led weekly data-focused lab sessions for over 50 undergraduate students, boosting exam performance by 12%.
+
+* Provided individualized statistical tutoring, increasing course pass rates by 15%.
+
+* Graded and provided feedback on 100+ assignments per semester.
+
+**HealthTech 2025 Competition – American University**
+*March 2025*
+
+* Co-developed MoodSync, an AI-powered mental health tracking platform for clinicians and patients.
+
+* Integrated real-time monitoring, AI-reflections, and emergency response features in a scalable B2B app model.
+
+* Finalist in a university-wide innovation competition judged by healthcare executives and tech founders.
+
+**35th Annual Mathias Student Research Conference – American University**
+*March 2025*
+
+* Presented research project: “Assessing Bias in Mortgage Lending During the COVID-19 Pandemic Using Machine Learning.”
+
+* Applied classification models (Random Forest, LightGBM) to Federal Home Loan Bank data; achieved ROC-AUC of 0.83.
+
+* Investigated impacts of dimensionality reduction (PCA) on model fairness and performance.
+
+***
+
+# SKILLS & CERTIFICATIONS
+* Languages & Tools: Python, R, SQL, Power BI, Tableau, Excel, Git, Microsoft 365
+* Machine Learning: Scikit-learn
+* Statistical Methods: Regression, Time Series, Hypothesis Testing, Econometrics
+* Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+* Certifications: IBM Data Science Professional Certificate, Microsoft Azure Fundamentals (AZ-900)
+* Soft Skills: Data storytelling, problem-solving, communication, stakeholder engagement

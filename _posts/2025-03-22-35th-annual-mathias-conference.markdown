@@ -46,3 +46,10 @@ Presenting this research gave me a chance to reflect on how far I’ve come in m
 ![Poster Presentation]({{site.baseurl}}/portfolio_images/mg_supervised_ml_images/Assessing Bias in Mortgage lending_completed_image.png#wide)
 
 Thank you to everyone who stopped by my poster and engaged in thoughtful discussion. I’m excited to keep exploring the intersection of machine learning, fairness, and economic policy—and I’m always happy to connect with others working on similar challenges. If you’ve worked with fairness-aware algorithms or have experience dealing with class imbalance in real-world datasets, I’d love to hear your story.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/hilton_website/post_images/mathias_conference/Blue and Yellow Simple Information Scan Code Instagram Post.png" loading="lazy">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
