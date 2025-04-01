@@ -6,7 +6,7 @@ image: '/about_images/linkedIn_photo.jpeg'
 ---
 
 # PROFILE
-Motivated and data-driven professional pursuing a Master of Science in Data Science at American University with a BSc in Economics from the London School of Economics. Experienced in applying analytical and machine learning techniques to solve business and policy problems in industries including finance, energy, and healthcare. Demonstrated success in delivering actionable insights, improving operational efficiency, and developing innovative AI-based solutions. Strong communicator and collaborator with a passion for ethical, inclusive, and impactful data science.
+Motivated and data-driven professional pursuing a Master of Science in Data Science at American University (as a Graduate Merit Scholarship Recipient) with a BSc in Economics from the London School of Economics. Experienced in applying analytical and machine learning techniques to solve business and policy problems in industries including finance, energy, and healthcare. Demonstrated success in delivering actionable insights, improving operational efficiency, and developing innovative AI-based solutions. Strong communicator and collaborator with a passion for ethical, inclusive, and impactful data science.
 
 *** 
 # PROFESSIONAL EXPERIENCE
@@ -59,7 +59,6 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 
 * Integrated real-time monitoring, AI-reflections, and emergency response features in a scalable B2B app model.
 
-* Finalist in a university-wide innovation competition judged by healthcare executives and tech founders.
 
 **35th Annual Mathias Student Research Conference – American University**
 
@@ -71,6 +70,16 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 
 * Investigated impacts of dimensionality reduction (PCA) on model fairness and performance.
 
+**London School of Economics Student Union (LSESU)**
+
+*Returning Officer, Democracy Committee - Sept 2023 - June 2024*
+
+* Led a campaign securing 70% of votes, establishing data-driven governance initiatives and panel discussions to enhance student representation.
+
+*  Co-managed the 2023/2024 elections, overseeing 1,000+ voter turnouts and ensuring adherence to electoral governance policies.
+
+* Streamlined electoral dispute resolution, reducing complaint processing time by 25% through data-driven tracking and analysis.
+
 ***
 
 # SKILLS & CERTIFICATIONS
@@ -78,5 +87,5 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 * Machine Learning: Scikit-learn
 * Statistical Methods: Regression, Time Series, Hypothesis Testing, Econometrics
 * Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
-* Certifications: IBM Data Science Professional Certificate, Microsoft Azure Fundamentals (AZ-900)
+* Certifications: IBM Data Science Professional Certificate, Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press
 * Soft Skills: Data storytelling, problem-solving, communication, stakeholder engagement
