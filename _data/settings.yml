@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: I'm Erika
   author__bio: I am a data enthusiast that studied Economics in my undergrad and now studying Data Science at American University. I have a passion for using data to tell stories and drive decision-making. In my free time, I enjoy exploring new data visualization techniques.
-  author__avatar: '/images/profile_photo.jpeg'
+  author__avatar: '/images/profile_photo2.jpeg'
 
 social:
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -50,7 +50,7 @@ social:
 hero:
   hero__title: I'm Erika. Welcome to my website! 
   hero__description: Welcome to my website! Here is my little corner of the internet where I share my projects, ideas, and inspirations on data. 
-  hero__image: '/images/profile_photo.jpeg'
+  hero__image: '/images/profile_photo2.jpeg'
 
 
 #-------------------------------
