@@ -48,7 +48,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Erika. Welcome to my website! 
+  hero__title: I'm Erika.
   hero__description: Welcome to my website! Here is my little corner of the internet where I share my projects, ideas, and inspirations on data. 
   hero__image: '/images/profile_photo2.jpeg'
 
