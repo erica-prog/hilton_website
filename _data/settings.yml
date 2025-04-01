@@ -147,7 +147,8 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: https://formspree.io/f/mgvaljer # Add your form_id
+  email: atomamaro@gmail.com
+  form action:  https://formspree.io/f/mgvaljer # Add your form_id
   description: Contact me if you want to discuss a project, have a question, or just want to say hi! I'm always open to new projects, new opportunities and collaborations.
 
 # NOTE
