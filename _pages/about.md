@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 'about_images/linkedIn_photo.jpeg'
+image: '/hilton_website/about_images/linkedIn_photo.jpeg'
 ---
 
 # PROFILE
