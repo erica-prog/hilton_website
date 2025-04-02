@@ -23,7 +23,7 @@ description:
             <img class="lazy" data-src="{{ project.image | relative_url }}" alt="{{ project.title }}">
           </a>
           <div class="project__info">
-            <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
+            <h3 class="project__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h3>
             {% if project.subtitle %}
             <div class="project__subtitle">{{ project.subtitle }}</div>
             {% endif %}
