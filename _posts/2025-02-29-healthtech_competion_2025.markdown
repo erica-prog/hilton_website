@@ -21,6 +21,13 @@ We designed a B2B subscription model for clinics and hospitals, with flexible pr
 
 From designing the app and clinician dashboard to conducting market analysis and developing a grant utilization strategy, the competition pushed us to think holistically. My role focused on the data science and software development side, applying what I’ve learned in the MS in Data Science program to build out the technical architecture, AI features, and real-time processing infrastructure.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/hilton_website/post_images/health_tech_competiton/emergency_response_call_device.png" loading="lazy">
+  </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
+
 <p>
   <iframe src="/hilton_website/post_images/health_tech_competiton/moodsync_interactive_app.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </p>
