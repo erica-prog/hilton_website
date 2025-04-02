@@ -25,7 +25,7 @@ From designing the app and clinician dashboard to conducting market analysis and
   <div class="gallery">
     <img src="/hilton_website/post_images/health_tech_competiton/emergency_response_call_device.png" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+  <em>MoodSync / Emergency Response Call Device</em>
 </div>
 
 <p>
