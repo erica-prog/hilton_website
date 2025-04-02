@@ -7,7 +7,7 @@ image:  '/post_images/cover_images/health_tech_competition_generated.png'
 tags:   [lifestyle, competiton, story]
 ---
 
-Earlier this semester, I had the privilege of participating in the HealthTech 2025 Competition hosted by the Veloric Center for Entrepreneurship and the Department of Health Studies at American University. Alongside my talented teammates—Anna Hyunjung Kim, Maulie Clermont, and Maya Porter—we took on the challenge of designing a technology-driven solution that addresses a major health disparity while centering the needs of underserved and marginalized communities.
+Earlier this semester, I had the privilege of participating in the HealthTech 2025 Competition hosted by the Veloric Center for Entrepreneurship and the Department of Health Studies at American University. Alongside my talented teammates, we took on the challenge of designing a technology-driven solution that addresses a major health disparity while centering the needs of underserved and marginalized communities.
 
 The scenario was realistic and high-stakes: imagine a local DC hospital issuing a $500,000 grant to support the development and pilot rollout of the winning solution. Our mission? To design and pitch a product that could improve public health outcomes in a meaningful, scalable, and sustainable way.
 
