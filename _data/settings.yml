@@ -29,8 +29,8 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: I'm Erika
-  author__bio: I am a data enthusiast that studied Economics in my undergrad and now studying Data Science at American University. I have a passion for using data to tell stories and drive decision-making. In my free time, I enjoy exploring new data visualization techniques.
+  author__name: Erika Atoma
+  author__bio: Hello, I am a data enthusiast that studied Economics in my undergrad and now studying Data Science at American University. I have a passion for using data to tell stories and drive decision-making. In my free time, I enjoy exploring new data visualization techniques.
   author__avatar: '/images/profile_photo2.jpeg'
 
 social:
@@ -49,7 +49,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Erika.
+  hero__title: Hello, I'm Erika Atoma.
   hero__description: Welcome to my website! Here is my little corner of the internet where I share my projects, ideas, and inspirations on data. 
   hero__image: '/images/profile_photo2.jpeg'
 
