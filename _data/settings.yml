@@ -21,7 +21,7 @@ menu__settings:
       - url: '/about/'
         title: 'About'
       - url: '/contact/'
-       title: 'Contact'
+        title: 'Contact'
       #- url: '/elements/'
       #  title: 'Elements'
 
