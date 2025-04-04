@@ -9,6 +9,13 @@ tags:   [lifestyle, competiton, story]
 
 Earlier this semester, I had the privilege of participating in the HealthTech 2025 Competition hosted by the Veloric Center for Entrepreneurship and the Department of Health Studies at American University. Alongside my talented teammates, we took on the challenge of designing a technology-driven solution that addresses a major health disparity while centering the needs of underserved and marginalized communities.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/hilton_website/post_images/health_tech_competiton/healthtech_group_shot.jpeg" loading="lazy">
+  </div>
+  <em>Team Photo</em>
+</div>
+
 The scenario was realistic and high-stakes: imagine a local DC hospital issuing a $500,000 grant to support the development and pilot rollout of the winning solution. Our mission? To design and pitch a product that could improve public health outcomes in a meaningful, scalable, and sustainable way.
 
 We focused on a pressing issue in mental healthcare—the lack of continuous monitoring and timely intervention between therapy sessions. Our solution was MoodSync, a mental health platform designed to bridge the communication gap between patients and clinicians. Mental illness affects one in five U.S. adults, yet treatment gaps persist due to stigma, inconsistent care, and limited access to timely support. We wanted to build a tool that would empower both patients and providers with better data, smarter insights, and faster responses.
