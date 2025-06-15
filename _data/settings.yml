@@ -50,7 +50,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hello, I'm Erika Atoma.
-  hero__description: Welcome to my website! Here is my little corner of the internet where I share my projects, ideas, and inspirations on data. 
+  hero__description: Welcome to my website! Here is the corner of the internet where I share my data related projects, ideas, and inspirations. 
   hero__image: '/images/profile_photo2.jpeg'
 
 
@@ -65,8 +65,8 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
-  projects__description: If you like my work and would like to discuss a project, please feel free to contact me. I'm always open to new projects and collaborations.
+  projects__title: My Projects
+  projects__description: Here are my data projects. 
 
 
 #-------------------------------
