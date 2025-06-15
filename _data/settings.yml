@@ -30,7 +30,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Erika Atoma
-  author__bio: Hello, I am a data enthusiast that studied Economics in my undergrad and now studying Data Science at American University. I have a passion for using data to tell stories and drive decision-making. In my free time, I enjoy exploring new data visualization techniques.
+  author__bio: Hello, I am a data enthusiast, presently MS Data Science student at American University, Washington D.C. with a BSc in Economics from LSE, London, UK. I have a passion for using data to provide insights that drive open new opportunities.
   author__avatar: '/images/profile_photo2.jpeg'
 
 social:
