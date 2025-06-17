@@ -50,7 +50,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hello, I'm Erika Atoma.
-  hero__description: Welcome to my website! Here is the corner of the internet where I share my data related projects, ideas, and inspirations. 
+  hero__description: Welcome to my website! Here, I share my personal works, including data-related projects, ideas, and inspirations. 
   hero__image: '/images/profile_photo2.jpeg'
 
 
