@@ -11,7 +11,7 @@ Earlier this semester, I had the privilege of participating in the HealthTech 20
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/post_images/health_tech_competiton/healthtech_group_shot.jpeg" loading="lazy">
+    <img src="/post_images/health_tech_competiton/healthtech_group_shot.jpeg" loading="lazy">
   </div>
   <em>Team Photo</em>
 </div>
@@ -30,17 +30,17 @@ From designing the app and clinician dashboard to conducting market analysis and
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/post_images/health_tech_competiton/emergency_response_call_device.png" loading="lazy">
+    <img src="/post_images/health_tech_competiton/emergency_response_call_device.png" loading="lazy">
   </div>
   <em>MoodSync / Emergency Response Call Device</em>
 </div>
 
 <p>
-  <iframe src="/hilton_website/post_images/health_tech_competiton/moodsync_interactive_app.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+  <iframe src="/post_images/health_tech_competiton/moodsync_interactive_app.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <p>
-  <iframe src="/hilton_website/post_images/health_tech_competiton/mood_sync_dashboard.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+  <iframe src="/post_images/health_tech_competiton/mood_sync_dashboard.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </p>
 
 Though our team didn’t walk away with the top prize, it was an incredibly rewarding experience. We learned how to pitch to a panel of healthcare professionals and venture capitalists, gained exposure to industry trends in digital health, and strengthened our skills in interdisciplinary collaboration. Most importantly, we left inspired to keep pushing boundaries in tech-enabled public health solutions.
