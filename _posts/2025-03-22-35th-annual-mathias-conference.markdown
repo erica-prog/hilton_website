@@ -13,6 +13,8 @@ Earlier this month, I had the opportunity to present my research at the 35th Ann
   <div class="gallery">
     <img src="/post_images/mathias_conference/mathias_solo_shot.jpeg" loading="lazy">
   </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
 
 *What’s this topic, you may ask?*
 
@@ -49,3 +51,5 @@ Thank you to everyone who stopped by my poster and engaged in thoughtful discuss
   <div class="gallery">
     <img src="/post_images/mathias_conference/Blue and Yellow Simple Information Scan Code Instagram Post.png" loading="lazy">
   </div>
+  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
+</div>
