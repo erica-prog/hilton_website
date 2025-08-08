@@ -40,8 +40,8 @@ The analysis identified significant insights into the financial and demographic 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/mg_supervised_ml_images/accuracy_vs_alpha.png" loading="lazy" alt="Decision Tree Visualization">
-    <img src="/hilton_website/portfolio_images/mg_supervised_ml_images/decision_tree.png" loading="lazy" alt="Decision Tree Visualization">
+    <img src="/portfolio_images/mg_supervised_ml_images/accuracy_vs_alpha.png" loading="lazy" alt="Decision Tree Visualization">
+    <img src="/portfolio_images/mg_supervised_ml_images/decision_tree.png" loading="lazy" alt="Decision Tree Visualization">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ The analysis identified significant insights into the financial and demographic 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/mg_supervised_ml_images/rf_without_pca.png" loading="lazy" alt="Random Forest Without PCA Visualization">
+    <img src="/portfolio_images/mg_supervised_ml_images/rf_without_pca.png" loading="lazy" alt="Random Forest Without PCA Visualization">
   </div>
 </div>
 
@@ -61,8 +61,8 @@ The analysis identified significant insights into the financial and demographic 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/mg_supervised_ml_images/lightGBM_without_pca.png" loading="lazy" alt="LightGBM Without PCA Visualization">
-    <img src="/hilton_website/portfolio_images/mg_supervised_ml_images/roc_curve_lightGBM.png" loading="lazy" alt="ROC Curve LightGBM">
+    <img src="/portfolio_images/mg_supervised_ml_images/lightGBM_without_pca.png" loading="lazy" alt="LightGBM Without PCA Visualization">
+    <img src="/portfolio_images/mg_supervised_ml_images/roc_curve_lightGBM.png" loading="lazy" alt="ROC Curve LightGBM">
   </div>
 </div>
 
@@ -91,7 +91,7 @@ I presented my research at a student conference, where I also explored data augm
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/mg_supervised_ml_images/Assessing Bias in Mortgage lending_completed_image.png" loading="lazy" alt="Poster Presentation">
+    <img src="/portfolio_images/mg_supervised_ml_images/Assessing Bias in Mortgage lending_completed_image.png" loading="lazy" alt="Poster Presentation">
   </div>
 </div>
 

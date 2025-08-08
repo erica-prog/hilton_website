@@ -27,7 +27,7 @@ The project segmented customers into three distinct groups using clustering algo
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/customer_seg_image/spending_table.png" loading="lazy" alt="spending_table">
+    <img src="/portfolio_images/customer_seg_image/spending_table.png" loading="lazy" alt="spending_table">
   </div>
 </div>
 
@@ -37,7 +37,7 @@ PCA was applied to reduce dimensionality, capturing 58% of data variance with ju
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/customer_seg_image/cluster_vis_pca.png" loading="lazy" alt="cluster_vis_pca">
+    <img src="/portfolio_images/customer_seg_image/cluster_vis_pca.png" loading="lazy" alt="cluster_vis_pca">
   </div>
 </div>
 
@@ -49,7 +49,7 @@ Classification trees were used to refine the descriptions of customer segments. 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/customer_seg_image/pruned_decision_tree.png" loading="lazy" alt="pruned_decision_tree">
+    <img src="/portfolio_images/customer_seg_image/pruned_decision_tree.png" loading="lazy" alt="pruned_decision_tree">
   </div>
 </div>
 

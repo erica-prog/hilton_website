@@ -149,8 +149,8 @@ This links to the feature importance on price as ``review_score_rating`` is not 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/reviewspermonthvsprice.png" loading="lazy" alt="Project">
-    <img src="/hilton_website/portfolio_images/airbnb_image/pricevsreviewspermonthmorethan175.png" loading="lazy" alt="Price">
+    <img src="/portfolio_images/airbnb_image/reviewspermonthvsprice.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/pricevsreviewspermonthmorethan175.png" loading="lazy" alt="Price">
   </div>
 </div>
 
@@ -168,7 +168,7 @@ However, we didn’t adjust it and looked more at the English comments as this l
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/sentimentanalysistextblobdataframe.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/sentimentanalysistextblobdataframe.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -179,7 +179,7 @@ This is the first 10000 comments that were analysed. We can see that there are m
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/sentimentanalysisvaluecounts.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/sentimentanalysisvaluecounts.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -190,8 +190,8 @@ Importance of text sentiment polarity:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/sentimentanalysistextblobdataframe.png" loading="lazy" alt="Project">
-    <img src="/hilton_website/portfolio_images/airbnb_image/sentimentanalysisvaluecounts.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/sentimentanalysistextblobdataframe.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/sentimentanalysisvaluecounts.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -208,7 +208,7 @@ Here we have seen the most common words in the summary of the cheapest listings.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/wordcloudcomments.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/wordcloudcomments.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -219,8 +219,8 @@ Using the NLTK CountVectorizer(), the top 10 common words in the ``comments`` ar
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/wordcloudnameexpensivelistings.png" loading="lazy" alt="Project">
-    <img src="/hilton_website/portfolio_images/airbnb_image/dataframeoftop10wordsincomments.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/wordcloudnameexpensivelistings.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/dataframeoftop10wordsincomments.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -260,7 +260,7 @@ The Test and Train group shapes  for ``hosting_listing_count``, ``neighbourhood_
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/snapshotoftraintestsplitamenities.png" loading="lazy" alt="Project">
+    <img src="/portfolio_images/airbnb_image/snapshotoftraintestsplitamenities.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -273,7 +273,7 @@ The simplest way to create a train and trust dataset from the initial one is by 
    
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/LinearRegequation.png" loading="lazy" alt="LinearRegequation">
+    <img src="/portfolio_images/airbnb_image/LinearRegequation.png" loading="lazy" alt="LinearRegequation">
   </div>
 </div>
 
@@ -290,7 +290,7 @@ Linear Regression was set as a baseline model on the dataset using all of the fe
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/multipleregressionequation.png" loading="lazy" alt="smultipleregressionequation">
+    <img src="/portfolio_images/airbnb_image/multipleregressionequation.png" loading="lazy" alt="smultipleregressionequation">
   </div>
 </div>
 
@@ -312,7 +312,7 @@ K-Nearest Neighbours is a type of instance-based learning. For this technique, t
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/decisiontree.png" loading="lazy" alt="decisiontree">
+    <img src="/portfolio_images/airbnb_image/decisiontree.png" loading="lazy" alt="decisiontree">
   </div>
 </div>
 
@@ -324,7 +324,7 @@ Limitation of Decision Tree: The technique requires advanced knowledge such as p
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/amenitiesdecisiontree.png" loading="lazy" alt="amenitiesdecisiontree">
+    <img src="/portfolio_images/airbnb_image/amenitiesdecisiontree.png" loading="lazy" alt="amenitiesdecisiontree">
   </div>
 </div>
 
@@ -345,7 +345,7 @@ Among all tested models, Random Forest performs the best and produces the lowest
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/MSE.png" loading="lazy" alt="amenitiesdecisiontree">
+    <img src="/portfolio_images/airbnb_image/MSE.png" loading="lazy" alt="amenitiesdecisiontree">
   </div>
 </div>
 
@@ -355,7 +355,7 @@ However, the Random Forest model produces the highest MSE, which means that ther
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/hilton_website/portfolio_images/airbnb_image/amenitiesrandomforest.png" loading="lazy" alt="amenitiesdecisiontree">
+    <img src="/portfolio_images/airbnb_image/amenitiesrandomforest.png" loading="lazy" alt="amenitiesdecisiontree">
   </div>
 </div>
 
