@@ -3,7 +3,7 @@ layout: post
 title: From Cloud Infrastructure to Autonomous Agents - AWS Summit 2025 Experience
 description: Exploring the cutting edge of AI automation at AWS Summit Washington D.C. and MCP workshop at a Gen AI DC Meetup. 
 date: 2025-02-29 15:01:35 +0300
-image: '/post_images/cover_images/aws_summit_cover.png'
+image: '/post_images/cover_images/aws_summit_cover_generated.png'
 tags: [technology, ai, aws, data-science]
 ---
 
@@ -17,7 +17,7 @@ It was a two-day deep dive into AWS cloud services, featuring hands-on workshops
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/post_images/aws_summit/aws_summit_expo.jpg" loading="lazy">
+    <img src="/post_images/aws_summit_mcp/aws_summit_expo.jpg" loading="lazy">
   </div>
   <em>AWS Summit Expo Floor - Networking with industry leaders</em>
 </div>
