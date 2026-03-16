@@ -10,14 +10,24 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 
 *** 
 # PROFESSIONAL EXPERIENCE
+
+**Tesla, Inc.**
+
+*Material Flow Automation Data Engineer Spring Intern - January 2026 - May 2026*
+
+**IDXExchange LLC**
+
+*Data Scientist Summer Intern - June 2025 – August 2025**
+
+
 **Lloyds Banking Group – Business and Commercial Banking, London, United Kingdom**
 
-*Summer Data Analyst Intern - June 2023 – August 2023*
+*Data Analyst Summer Intern - June 2023 – August 2023*
 
 
 **TotalEnergies EP Nigeria Ltd – Crude Commercial Division, Lagos, Nigeria**
 
-*Summer Intern - June 2022 – August 2022*
+*Crude Commercial Analyst Summer Intern - June 2022 – August 2022*
 
 
 **Dare, London, United Kingdom**
