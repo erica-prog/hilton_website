@@ -17,7 +17,7 @@ Motivated and data-driven professional pursuing a Master of Science in Data Scie
 
 **IDXExchange LLC**
 
-**Data Scientist Summer Intern - June 2025 – August 2025**
+*Data Scientist Summer Intern - June 2025 – August 2025*
 
 
 **Lloyds Banking Group – Business and Commercial Banking, London, United Kingdom**
